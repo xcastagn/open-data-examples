@@ -1,0 +1,8 @@
+# Bureau of meteorology Atmospheric Regional Projections and Atmospheric Regional Reanalysis for Australia
+
+### This repository contains notebooks documenting and providing examples for the Australian Bureau of Meteorology's high resolution regional atmospheric reanalysis model and high resolution climate simulations and projections over Australia and surrounding regions.
+
+This repository includes the following notebooks:
+- [BARPA](https://github.com/xcastagn/open-data-examples/blob/master/get-to-know-a-dataset-barpa.ipynb), the Bureau of meteorology Atmospheric Regional Projections for Australia (BARPA) is a high resolution climate simulations and projections over Australia and its surrounding regions developed by the Australian Bureau of Meteorology, downscaling global projections and global reanalysis (ERA5) using ACCESS as a limited-area dynamical coupled atmosphere-land model - Unified Model (UM) and JULES, spanning 1960 to 2100. 
+- [BARRA](https://github.com/xcastagn/open-data-examples/blob/master/get-to-know-a-dataset-barra_1.ipynb), the high resolution regional atmospheric reanalysis model over Australia and surrounding regions developed by the Australian Bureau of Meteorology. BARRA is designed for providing multi-decadal meteorological data and covers Australia and surrounding regions providing multi-decadal, 1990 to 2019, meteorological data.
+- [BARRA2](https://github.com/xcastagn/open-data-examples/blob/master/get-to-know-a-dataset-barra_2.ipynb), the new version of the regional atmospheric reanalysis over Australia and surrounding regions. BARRA2 provides the Bureau's higher resolution regional atmospheric reanalysis over Australia and surrounding regions, spanning 1979-present day period.
